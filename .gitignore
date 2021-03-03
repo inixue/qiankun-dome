@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+/dist
+
+# vue_base 主应用
+/vue_base/node_modules
+/vue_base/dist
+
+# vue_micro1 子应用
+/vue_micro1/node_modules
+/vue_micro1/dist
